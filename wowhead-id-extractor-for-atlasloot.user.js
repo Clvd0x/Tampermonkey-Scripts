@@ -7,8 +7,8 @@
 // @match        https://www.wowhead.com/wotlk/guide/classes/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=wowhead.com
 // @grant        none
-// @updateURL    https://github.com/Clvd0x/Tampermonkey-Scripts/raw/main/wowhead-id-extractor-for-atlasloot.js
-// @downloadURL  https://github.com/Clvd0x/Tampermonkey-Scripts/raw/main/wowhead-id-extractor-for-atlasloot.js
+// @updateURL    https://github.com/Clvd0x/Tampermonkey-Scripts/raw/main/wowhead-id-extractor-for-atlasloot.user.js
+// @downloadURL  https://github.com/Clvd0x/Tampermonkey-Scripts/raw/main/wowhead-id-extractor-for-atlasloot.user.js
 // ==/UserScript==
 
 (function() {
